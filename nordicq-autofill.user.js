@@ -8,7 +8,7 @@
 ║  LICENSE       ▸  MIT                                      ║
 ║  STATUS        ▸  Stable                                   ║
 ║  LAST UPDATE   ▸  2026-01-20                               ║
-║  REPOSITORY    ▸  https://github.com/Murdervan/nordicq-movie-id-autofill
+║  REPOSITORY    ▸  https://github.com/Murdervan/nordicq-movie-id-autofill ║
 ╠════════════════════════════════════════════════════════════╣
 ║  DESCRIPTION                                               ║
 ║  Automatically fills Movie & TV IDs on NordicQ using       ║
