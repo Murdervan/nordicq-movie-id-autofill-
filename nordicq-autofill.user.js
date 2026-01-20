@@ -1,22 +1,3 @@
-/*
-╔════════════════════════════════════════════════════════════╗
-║                  NORDICQ MOVIE ID AUTOFILL                 ║
-╠════════════════════════════════════════════════════════════╣
-║  TYPE          ▸  Userscript                               ║
-║  AUTHOR        ▸  Murdervan / AI                           ║
-║  VERSION       ▸  v1.0.0                                   ║
-║  LICENSE       ▸  MIT                                      ║
-║  STATUS        ▸  Stable                                   ║
-║  LAST UPDATE   ▸  2026-01-20                               ║
-║  REPOSITORY    ▸  https://github.com/Murdervan/nordicq-movie-id-autofill ║
-║  GITHUB GIST   ▸  https://gist.github.com/Murdervan/c01c8a9f47f50caf70d057a2db4ee777 ║
-╠════════════════════════════════════════════════════════════╣
-║  DESCRIPTION                                               ║
-║  Automatically fills Movie & TV IDs on NordicQ using       ║
-║  TMDb, IMDb and TheTVDb                                    ║
-╚════════════════════════════════════════════════════════════╝
-*/
-
 // ==UserScript==
 // @name         NordicQ Movie ID Auto-Fill
 // @author Murdervan
