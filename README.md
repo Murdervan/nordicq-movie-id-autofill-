@@ -1,4 +1,10 @@
-# nordicq-movie-id-autofill-
+# nordicq-movie-id-autofill
+<div align="right">
+  
+  ### Check out my other 
+  
+  [![Repositories](https://img.shields.io/badge/Repositories-Murdervan-blue?style=for-the-badge&logo=github)](https://github.com/Murdervan?tab=repositories)
+</div>
 NordicQ Movie ID Auto-Fill
 
 Automatically fills in TMDB and IMDB IDs on the NordicQ request page.
